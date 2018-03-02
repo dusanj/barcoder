@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="http://w8appsrv" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="bc" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="dule@mccanngroup.local" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoXw+dL/Ge0GopwlU3VDWDQAAAAACAAAAAAADZgAAwAAAABAAAAD2qh3NTEw5983q/YCAH1GWAAAAAASAAACgAAAAEAAAAGhWAJHAYdYXrribeAG2+gsQAAAAg2mUIGHMnwWrR5sdvu7lHxQAAABwIb6NBc9yKdqTn2JeFfn2XickrA==" SelectedForPublish="True">
+    <file relUrl="bin/CreatePDF.dll" publishTime="12/16/2011 09:19:36" />
+    <file relUrl="bin/CreatePDF.pdb" publishTime="12/16/2011 09:19:36" />
+    <file relUrl="bin/itextsharp.dll" publishTime="04/02/2009 18:20:00" />
+    <file relUrl="Web.config" publishTime="12/14/2011 10:24:36" />
+    <file relUrl="libs/itextsharp.dll" publishTime="04/02/2009 18:20:00" />
+    <file relUrl="Default.aspx" publishTime="12/16/2011 09:31:38" />
+    <file relUrl="bg.png" publishTime="12/15/2011 17:16:46" />
+  </publishProfile>
+</publishData>
